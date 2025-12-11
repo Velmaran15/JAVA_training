@@ -3,7 +3,7 @@ Given an array of nums of n integers. Every integer in the array appears twice e
 
 
 Input Format
-
+    
 First line will contain an integer n – the number of elements in the array.
 Second line will contain n space-separated integers – the elements of the array nums.
 
